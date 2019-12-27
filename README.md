@@ -1,6 +1,6 @@
 # image-search-engine
 
-The goal here is: Given a query image from a directory of images, output similar images to the query image. This is done using Python and OpenCV. 
+The goal here is to output similar images to a given query image from a directory of images using Python and OpenCV
 
 Algorithm used to perform search : Chi-Squared distance
 
